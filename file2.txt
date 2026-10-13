@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 creamos de nuevo este archivo 
-=======
 andy alexander git y github desde 0
->>>>>>> 7288556 (se modifico el file1,file2 y elimine el file3)
