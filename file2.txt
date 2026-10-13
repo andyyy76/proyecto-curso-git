@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creamos de nuevo este archivo 
+=======
+andy alexander git y github
+>>>>>>> d326d5c (se actualizo la inf del file 2)
