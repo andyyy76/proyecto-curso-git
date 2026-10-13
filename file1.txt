@@ -2,6 +2,9 @@
 curso de git por andy 
 =======
 este fue el primer archivo 
+<<<<<<< HEAD
 
 esta es la 2 fila
 >>>>>>> 708e328 (se modifico)
+=======
+>>>>>>> 7288556 (se modifico el file1,file2 y elimine el file3)
